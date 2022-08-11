@@ -9,9 +9,9 @@ div(ref="affix")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
       n-space(size="large" vertical)
         .btn
-          a(href="https://accsou.com/" target="_blank" )  24小时自助购买地址（需要科学，打不开请用下面地址或联系客服）
+          a(href="https://accsou.com/" target="_blank" )  accsou.com 24小时自助购买地址（需要科学，打不开请用下面地址或联系客服）
         .btn
-          a(href="https://accsou.xyz/" target="_blank")   24小时自助购买地址(关注频道获取优惠码,价格更优惠）
+          a(href="https://accsou.xyz/" target="_blank")   accsou.xyz 24小时自助购买地址(关注频道获取优惠码,价格更优惠）
         .btn
           a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
         .btn
