@@ -1,7 +1,7 @@
 <template lang="pug">
 div(ref="affix")
   n-space(vertical)
-    n-p.round Yx
+    n-p.round yamaiddi
     n-p(style="font-weight: bold;color: #fff") @Yamaiddi
     n-p(style="color: #fff") 推特Twitter，Discord，instagram，Gmail，领英Linkedin等账号零售批发
   n-grid.content(cols="24" item-responsive responsive="screen" style="margin-top: 26px")
