@@ -17,7 +17,7 @@ div(ref="affix")
         .btn
           a(href="https://t.me/accsoutop" target="_blank")   请关注telegram频道（补货通知，优惠码发放）        
         .btn
-         <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=23676616&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:23676616:52" alt="唯一QQ客服23676616" title="唯一QQ客服23676616"/></a>     
+         <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=23676616&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:23676616:52" alt="唯一QQ客服23676616" title="唯一QQ客服23676616"/></a>     唯一QQ客服（QQ：23676616）
                 
     n-gi(span="1 s:2 m:2 l:5 xl:6 2xl:6")
 
