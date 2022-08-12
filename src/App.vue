@@ -4,7 +4,7 @@ div(ref="affix")
     n-p.round 號
     n-p(style="font-weight: bold;color: #fff") @Yamaiddi
     n-p(style="color: #fff") 推特Twitter，Discord，instagram，Gmail，领英Linkedin等账号零售批发
-    n-p(style="color: #fff") usdt支付请联系<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=23676616&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:23676616:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+    n-p(style="color: #fff") usdt支付请联系<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=23676616&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:23676616:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
   n-grid.content(cols="24" item-responsive responsive="screen" style="margin-top: 26px")
     n-gi(span="1 s:2 m:2 l:5 xl:6 2xl:6")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
