@@ -12,7 +12,7 @@ div(ref="affix")
         .btn
           a(href="https://accsou.com/" target="_blank" )  accsou.com 24小时自助购买地址（需要科学，打不开请用下面地址或联系客服）
         .btn
-          a(href="https://mhao.xyz/" target="_blank")   accsou.xyz服务器故障，暂不可用，请使用上面的地址购买（需挂VPN）
+          a(href="https://accsou.xyz/" target="_blank")   accsou.xyz 24小时自助购买地址(关注频道获取优惠码,价格更优惠）
         .btn
           a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
         .btn
