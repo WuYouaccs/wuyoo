@@ -16,7 +16,7 @@ div(ref="affix")
         .btn
           a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
         .btn
-          a(href="https://t.me/accsoutop" target="_blank")   请关注telegram频道（补货通知，优惠码发放）        
+          a(href="https://t.me/accsou_com" target="_blank")   请关注telegram频道（补货通知，优惠码发放）        
         .btn
           a(href="http://wpa.qq.com/msgrd?v=3&uin=23676616&site=qq&menu=yes" target="_blank")   唯一QQ客服（QQ：23676616）
                 
