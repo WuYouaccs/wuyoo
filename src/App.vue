@@ -2,7 +2,7 @@
 div(ref="affix")
   n-space(vertical)
     n-p.round 號
-    n-p(style="font-weight: bold;color: #eee") @Yamaiddi
+    n-p(style="font-weight: bold;color: #0477ff") @Yamaiddi
     n-p(style="color: #fff") 推特Twitter，Discord，instagram，Gmail，领英Linkedin等账号零售批发
     n-p(style="color: #fff") usdt支付请联系  <a href="https://t.me/yamaiddi" target="_blank" >@yamaiddi</a>
   n-grid.content(cols="24" item-responsive responsive="screen" style="margin-top: 26px")
