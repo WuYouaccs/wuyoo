@@ -11,7 +11,7 @@ div(ref="affix")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
       n-space(size="large" vertical)
         .btn
-          a(href="https://accsou.com/" target="_blank" )  accsou.com （由于服务器质量问题，本站在未来数日即将转为备用,启用新站www.wuyoo.top）
+          a(href="https://accsou.com/" target="_blank" )  由于服务器质量问题，accsou.com站在未来数日即将转为备用,启用新站www.wuyoo.top
         .btn
           a(href="https://accsou.xyz/" target="_blank")   accsou.xyz 24小时自助购买地址(关注频道获取优惠码,价格更优惠）
         .btn
