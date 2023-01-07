@@ -11,9 +11,9 @@ div(ref="affix")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
       n-space(size="large" vertical)
         .btn
-          a(href="https://accsou.com/" target="_blank" )  由于服务器质量问题，accsou.com站在未来数日即将转为备用,启用新站www.wuyoo.top
+          a(href="https://wuyoo.top/" target="_blank" )  即日起accsou.com和accsou.xyz已跳转至新站www.wuyoo.top
         .btn
-          a(href="https://accsou.xyz/" target="_blank")   accsou.xyz 24小时自助购买地址(关注频道获取优惠码,价格更优惠）
+          a(href="https://wuyoo.top/" target="_blank")   accsou.com和accsou.xyz网站转为备用，以备不时之需。
         .btn
           a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
         .btn
