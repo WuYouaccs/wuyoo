@@ -11,15 +11,13 @@ div(ref="affix")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
       n-space(size="large" vertical)
         .btn
-          a(href="https://wuyoo.top/" target="_blank" )  即日起accsou.com和accsou.xyz已跳转至新站www.wuyoo.top
-        .btn
-          a(href="https://wuyoo.top/" target="_blank")   accsou.com和accsou.xyz网站转为备用，以备不时之需。
+          a(href="https://wuyoo.top/" target="_blank" )  www.wuyoo.top
         .btn
           a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
         .btn
           a(href="https://t.me/accsou_com" target="_blank")   请关注telegram频道（补货通知，优惠码发放）        
         .btn
-          a(href="http://wpa.qq.com/msgrd?v=3&uin=***&site=qq&menu=yes" target="_blank")   请通过tg联系，QQ不再回复信息
+          a(href="https://t.me/wuyootop" target="_blank")   售前售后必看本教程频道（看不懂的不要购买）
                 
     n-gi(span="1 s:2 m:2 l:5 xl:6 2xl:6")
 
