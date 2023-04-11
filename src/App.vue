@@ -11,11 +11,11 @@ div(ref="affix")
     n-gi(span="22 s:20 m:20 l:14 xl:12 2xl:12")
       n-space(size="large" vertical)
         .btn
-          a(href="https://wuyoo.top/" target="_blank" )  www.wuyoo.top
+          a(href="https://wuyoo.top/" target="_blank" ) 自助下单 www.wuyoo.top
         .btn
-          a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(可联系客服直接购买)        
+          a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(联系客服)  
         .btn
-          a(href="https://t.me/accsou_com" target="_blank")   请关注telegram频道（补货通知，优惠码发放）        
+          a(href="https://t.me/accsou_com" target="_blank")   请关注telegram频道（补货通知，优惠码发放）      
         .btn
           a(href="https://t.me/wuyootop" target="_blank")   售前售后必看本教程频道（看不懂的不要购买）
                 
