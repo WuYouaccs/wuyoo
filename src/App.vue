@@ -13,12 +13,11 @@ div(ref="affix")
         .btn
           a(href="https://wuyoo.top/" target="_blank" ) 自助下单 www.wuyoo.top
         .btn
-          a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(联系客服)  
+          a(href="https://t.me/wuyootop" target="_blank")   售前售后必看本教程频道（看不懂的不要购买）  
         .btn
           a(href="https://t.me/accsou_com" target="_blank")   请关注telegram频道（补货通知，优惠码发放）      
         .btn
-          a(href="https://t.me/wuyootop" target="_blank")   售前售后必看本教程频道（看不懂的不要购买）
-                
+          a(href="https://t.me/yamaiddi" target="_blank")   请认准唯一客服@yamaiddi(联系客服)        
     n-gi(span="1 s:2 m:2 l:5 xl:6 2xl:6")
 
   //- .footer
